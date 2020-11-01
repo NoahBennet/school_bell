@@ -116,7 +116,7 @@ def schedule_bell_times(data_from_excel):
 
 
 def main():
-    data_from_excel = read_from_excel("skolske zvonenie.xlsx")
+    data_from_excel = read_from_excel("skolske_zvonenie.xlsx")
     schedule_bell_times(data_from_excel)
 
 
