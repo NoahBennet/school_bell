@@ -1,2 +1,5 @@
 .idea/
 *.exe
+dist/
+build/
+_pycache_/
